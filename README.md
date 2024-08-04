@@ -43,4 +43,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
