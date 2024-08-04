@@ -1,4 +1,4 @@
-# Leetcode-Daily-Problems!
+# Leetcode-Daily-Problems!.
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
