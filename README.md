@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0042-trapping-rain-water) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0792-binary-search](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,4 +50,8 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0009-palindrome-number) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
