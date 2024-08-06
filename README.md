@@ -1,4 +1,16 @@
-# Leetcode-Daily-Problems!.
+##🚀 50 Days of LeetCode Coding Challenge
+Welcome to the 50 Days of LeetCode Coding Challenge! 🎉 This is a personal journey to improve problem-solving skills, enhance coding abilities, and tackle various algorithms and data structures on LeetCode. Let's make every day count and achieve great progress together!
+
+##📅 Challenge Overview
+Duration: 50 Days
+Start Date: 05/08/2024
+End Date: 24/09/2024
+
+##🏆 Challenge Goals
+Solve 50 LeetCode Problems: One problem each day to practice and improve problem-solving skills.
+Cover Various Topics: Ensure a well-rounded practice by covering arrays, strings, linked lists, trees, dynamic programming, etc.
+Improve Coding Efficiency: Focus on writing clean, efficient, and optimized code.
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
