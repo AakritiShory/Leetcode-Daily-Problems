@@ -17,11 +17,13 @@ End Date: 24/09/2024
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0042-trapping-rain-water) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +49,7 @@ End Date: 24/09/2024
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0217-contains-duplicate) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
