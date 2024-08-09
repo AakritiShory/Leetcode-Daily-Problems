@@ -35,6 +35,7 @@ End Date: 24/09/2024
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0042-trapping-rain-water) |
+| [1013-fibonacci-number](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -64,6 +65,7 @@ End Date: 24/09/2024
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0009-palindrome-number) |
+| [1013-fibonacci-number](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -72,4 +74,12 @@ End Date: 24/09/2024
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0011-container-with-most-water) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
