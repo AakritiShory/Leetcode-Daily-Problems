@@ -1,4 +1,4 @@
-## 50 Days of LeetCode Coding Challenge! 🎯
+## 50 Days of LeetCode Coding Challenge! 🎯.
 Welcome to the 50 Days of LeetCode Coding Challenge! 🎉 This is a personal journey to improve problem-solving skills, enhance coding abilities, and tackle various algorithms and data structures on LeetCode. Let's make every day count and achieve great progress together!
 
 ## Challenge Overview 🔄
