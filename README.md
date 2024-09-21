@@ -25,6 +25,7 @@ End Date: 24/09/2024
 | ------- |
 | [0001-two-sum](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,6 +54,7 @@ End Date: 24/09/2024
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0242-valid-anagram) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -82,4 +84,8 @@ End Date: 24/09/2024
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/1013-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
