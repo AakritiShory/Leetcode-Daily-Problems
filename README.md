@@ -36,6 +36,7 @@ End Date: 24/09/2024
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
@@ -67,6 +68,7 @@ End Date: 24/09/2024
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
@@ -83,6 +85,7 @@ End Date: 24/09/2024
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/1013-fibonacci-number) |
 ## String
 |  |
