@@ -17,6 +17,7 @@ End Date: 24/09/2024
 | [0011-container-with-most-water](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0054-spiral-matrix) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0792-binary-search) |
@@ -91,4 +92,12 @@ End Date: 24/09/2024
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0242-valid-anagram) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
