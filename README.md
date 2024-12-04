@@ -20,6 +20,7 @@ End Date: 24/09/2024
 | [0054-spiral-matrix](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0054-spiral-matrix) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0217-contains-duplicate) |
+| [0747-min-cost-climbing-stairs](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
@@ -38,6 +39,7 @@ End Date: 24/09/2024
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0070-climbing-stairs) |
+| [0747-min-cost-climbing-stairs](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
