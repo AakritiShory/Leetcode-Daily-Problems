@@ -1,20 +1,15 @@
-class Solution {
-    static int[] dp;
-    public int fibo(int n){
+class Solution {             //bottom up approach iterative dp
+    public int fib(int n) {
         if(n<=1){
             return n;
         }
-        if(dp[n]!=0){  //agr pehle se voh no stored
-            return dp[n]; //return krdo uski value
+        int [] dp=new int[n+1];
+        dp[0]=0;
+        dp[1]=1;
+        for(int i=2;i<=n;i++){
+            dp[i]=dp[i-1]+dp[i-2];
         }
-        int ans=fibo(n-1)+fibo(n-2);
-            dp[n]=ans;
-            return ans;
-    }
-    public int fib(int n) {
-        dp=new int[n+1];//index from 0 to n
-        return fibo(n);
-        
+        return dp[n];
         
     }
 }
