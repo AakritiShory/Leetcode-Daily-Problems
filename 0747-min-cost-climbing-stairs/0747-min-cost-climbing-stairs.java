@@ -6,13 +6,14 @@ class Solution {
         }
         if(dp[idx]!=-1){    //agr -1 nahi hai,toh pehle se stored value
             return dp[idx]; //return krdo
-        }
+        }                                
+        //top pr jane ke liye              idx-1 se aao               ya  idx-2 se aao
         return dp[idx]=cost[idx]+Math.min(minCost(cost,idx-1,dp),minCost(cost,idx-2,dp));
-
+                    //cost of curr step add to min of these cost and store the result in dp.
     }
     public int minCostClimbingStairs(int[] cost) {
         int n=cost.length;
-        //n is going from n-1 to 0;
+        //n is going from n-1 to 0;   calculating beyond last index ie top floor
         int[] dp=new int[n];
         //taki dp array -1 se initiate kr ske
         Arrays.fill(dp,-1);
