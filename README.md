@@ -104,4 +104,20 @@ End Date: 24/09/2024
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0054-spiral-matrix) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0547-number-of-provinces) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
