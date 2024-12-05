@@ -41,6 +41,7 @@ End Date: 24/09/2024
 | [0070-climbing-stairs](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0070-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/1013-fibonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/1250-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -94,6 +95,7 @@ End Date: 24/09/2024
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0242-valid-anagram) |
+| [1250-longest-common-subsequence](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/1250-longest-common-subsequence) |
 ## Matrix
 |  |
 | ------- |
