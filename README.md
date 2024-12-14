@@ -17,6 +17,7 @@ Duration:  Days
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0054-spiral-matrix) |
+| [0189-rotate-array](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0217-contains-duplicate) |
 | [0747-min-cost-climbing-stairs](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0747-min-cost-climbing-stairs) |
@@ -33,6 +34,7 @@ Duration:  Days
 | [0011-container-with-most-water](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0042-trapping-rain-water) |
+| [0189-rotate-array](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -72,6 +74,7 @@ Duration:  Days
 | ------- |
 | [0009-palindrome-number](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
