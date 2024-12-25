@@ -110,6 +110,7 @@ Duration:  Days
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -122,4 +123,20 @@ Duration:  Days
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0547-number-of-provinces) |
+## Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0572-subtree-of-another-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0572-subtree-of-another-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
