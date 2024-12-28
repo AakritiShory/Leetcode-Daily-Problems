@@ -96,6 +96,7 @@ Duration:  Days
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0242-valid-anagram) |
 | [1250-longest-common-subsequence](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/1250-longest-common-subsequence) |
 ## Matrix
@@ -139,4 +140,8 @@ Duration:  Days
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0572-subtree-of-another-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AakritiShory/Leetcode-Daily-Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
